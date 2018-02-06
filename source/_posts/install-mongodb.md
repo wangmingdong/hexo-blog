@@ -13,7 +13,8 @@ categories: ['数据库']
 ### 安装
 
 我下载的msi，最好选custom自定义，不然找不到安装位置，比如我安装到了C盘根目录；
-安装好后打开cmd命令窗口，进入到mongodb\bin目录下输入：
+__安装好后在根目录新建data文件夹（用于存储数据，这步很重要，不然会闪退）__，
+打开cmd命令窗口，进入到mongodb\bin目录下输入：
 
 ``` bash
 mongod --dbpath c:/data
