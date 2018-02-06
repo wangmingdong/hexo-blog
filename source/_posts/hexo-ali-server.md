@@ -1,7 +1,7 @@
 ---
 title: 如何把hexo博客部署在阿里云服务器上
 date: 2018-02-02 15:22:27
-tags: ['hexo', '阿里云服务器']
+tags: ['hexo', 'blog']
 categories: ['hexo']
 ---
 
