@@ -31,7 +31,7 @@ mongod --dbpath c:/data
 2018-02-06T16:40:27.456+0800 I NETWORK  [thread1] waiting for connections on port 27017
 ```
 如果末尾显示： waiting for connections on port 27017
-证明安装成功。
+证明连接成功。
 
 ### 测试
 连接成功以后就可以去浏览器打开<http://localhost:27017>
