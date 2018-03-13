@@ -80,6 +80,7 @@ deploy:
 ################# github 配置##################
   # type: git
   # repo: https://github.com/wangmingdong/wangmingdong.github.io.git
+  # branch: master
 ################# 阿里服务器 配置##################
   type: ftpsync
   host: qxu1194690051.my3w.com #主机地址
