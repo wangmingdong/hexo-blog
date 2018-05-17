@@ -1,3 +1,4 @@
 # hexo-blog
+[![Build Status](https://www.travis-ci.org/wangmingdong/hexo-blog.svg?branch=master)](https://www.travis-ci.org/wangmingdong/hexo-blog)
+
 基于hexo搭建的blog
-[![Build Status](https://travis-ci.org/michaelliao/openweixin.svg?branch=master)](https://travis-ci.org/michaelliao/openweixin)
