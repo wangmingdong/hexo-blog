@@ -1,5 +1,6 @@
 ---
 title: hexo常用命令
+date: 2018-01-26 15:36:03
 type: "hexo"
 tags: ["hexo", 'npm']
 categories: ['hexo']
