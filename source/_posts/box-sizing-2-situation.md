@@ -1,8 +1,8 @@
 ---
 title: 说一说盒子模型的两种类型
 date: 2018-09-26 14:43:18
-tags: ['css']
-categories: ['css', 'box-sizing']
+tags: ['css', 'box-sizing']
+categories: ['css']
 ---
 ## 写在前面
 盒子模型应该是老生常谈的问题，最近翻找这类博客时发现还是容易搞混，特别是计算宽高。

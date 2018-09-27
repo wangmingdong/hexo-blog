@@ -1,8 +1,8 @@
 ---
 title: Webpack学习笔记之style-loader&css-loader
 date: 2018-09-26 15:36:03
-tags: ['webpack']
-categories: ['webpack', 'loader']
+tags: ['webpack', 'loader']
+categories: ['webpack']
 ---
 
 ## 前言
