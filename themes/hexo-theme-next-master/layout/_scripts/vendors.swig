@@ -6,12 +6,16 @@
   }
 </script>
 
+<canvas class="fireworks" style="position: fixed;top: 0;bottom: 0;left: 0;right: 0;z-index: -1;"></canvas>
+
 {% set js_vendors = {} %}
 {% set js_vendors.jquery      = 'jquery/index.js?v=2.1.3' %}
 {% set js_vendors.fastclick   = 'fastclick/lib/fastclick.min.js?v=1.0.6' %}
 {% set js_vendors.lazyload    = 'jquery_lazyload/jquery.lazyload.js?v=1.9.7' %}
 {% set js_vendors.velocity    = 'velocity/velocity.min.js?v=1.2.1' %}
 {% set js_vendors.velocity_ui = 'velocity/velocity.ui.min.js?v=1.2.1' %}
+{% set js_vendors.anime = 'anime/anime.js?v=1.2.1' %}
+{% set js_vendors.clickAnimate = 'anime/clickAnimate.js?v=1.2.1' %}
 
 {% if theme.fancybox %}
   {% set js_vendors.fancybox  = 'fancybox/source/jquery.fancybox.pack.js?v=2.1.5' %}

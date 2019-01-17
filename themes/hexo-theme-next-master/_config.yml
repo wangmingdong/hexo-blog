@@ -199,6 +199,12 @@ sidebar:
   # Enable sidebar on narrow view (only for Muse | Mist).
   onmobile: false
 
+# 阅读进度
+reading_progress:
+  enable: true
+  color: "#37c6c0"
+  height: 2px
+
 
 # ---------------------------------------------------------------
 # Post Settings
