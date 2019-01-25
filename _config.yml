@@ -103,3 +103,26 @@ social:
   # douban: http://douban.com/people/your-user-name
   # zhihu: http://www.zhihu.com/people/your-user-name
   # 等等
+
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  debug: false
+  model:
+    # use: live2d-widget-model-wanko # 默认
+    use: live2d-widget-model-tororo # 博客根目录/live2d_models/ 下的目录名
+    # use: ./live2d_models/mymiku/live2d-widget-model-tororo # 相对于博客根目录的路径
+    # use: https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json # 你的自定义
+    scale: 1
+  display:
+    position: right
+    width: 100
+    height: 200
+  mobile:
+    show: true
+    scale: 0.5
+
