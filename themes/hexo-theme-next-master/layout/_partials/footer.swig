@@ -38,6 +38,8 @@
     #}NexT.{{ theme.scheme }}{#
   #}</a>{% if theme.footer.theme.version %} v{{ theme.version }}{% endif %}{#
 #}</div>
+<span class="post-meta-divider">|</span>
+<img src="http://static.weqianduan.com/upyun_logo2.png" title="又拍云" onclick="window.open('https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral')" style="height: 40px; z-index: -1; cursor: pointer;"/>
 {% endif %}
 
 {% if theme.footer.custom_text %}
