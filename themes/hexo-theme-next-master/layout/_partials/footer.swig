@@ -40,6 +40,8 @@
 #}</div>
 <span class="post-meta-divider">|</span>
 <img src="http://static.weqianduan.com/upyun_logo2.png" title="又拍云" onclick="window.open('https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral')" style="height: 40px; z-index: -1; cursor: pointer;display: inline-block; margin-bottom: -15px;"/>
+<br/>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1277942202'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s9.cnzz.com/z_stat.php%3Fid%3D1277942202%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
 {% endif %}
 
 {% if theme.footer.custom_text %}
