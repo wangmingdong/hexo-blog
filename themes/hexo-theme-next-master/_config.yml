@@ -373,10 +373,10 @@ disqus:
 # Hypercomments
 #hypercomments_id:
 # changyan
-changyan:
-  enable: true
-  appid: cytsairR0
-  appkey: 3c370011d49d7ad99a9505f1be5b505e
+# changyan:
+#   enable: true
+#   appid: cytsairR0
+#   appkey: 3c370011d49d7ad99a9505f1be5b505e
 
 
 # Valine.
